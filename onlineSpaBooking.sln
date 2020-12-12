@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "onlineSpaBooking", "onlineSpaBooking\onlineSpaBooking.csproj", "{DBCCD615-FDA1-4346-97D1-EF9775577CF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "onlineSpaBooking.Test", "onlineSpaBooking.Test\onlineSpaBooking.Test.csproj", "{8F31141E-5D94-483D-A861-E3CD1C93E0AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBCCD615-FDA1-4346-97D1-EF9775577CF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBCCD615-FDA1-4346-97D1-EF9775577CF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBCCD615-FDA1-4346-97D1-EF9775577CF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBCCD615-FDA1-4346-97D1-EF9775577CF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F31141E-5D94-483D-A861-E3CD1C93E0AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F31141E-5D94-483D-A861-E3CD1C93E0AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F31141E-5D94-483D-A861-E3CD1C93E0AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F31141E-5D94-483D-A861-E3CD1C93E0AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {002E6EC3-28A1-43BE-B2C6-134BDDA52E47}
+	EndGlobalSection
+EndGlobal
